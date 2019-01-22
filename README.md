@@ -1,6 +1,6 @@
 # disjoint
 
-disjoint algorithm to union / find sets based on map and list in golang.
+disjoint algorithm to union and find sets based on map and list.
 
 ## Install
 
